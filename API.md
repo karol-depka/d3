@@ -7,7 +7,7 @@ D3 4.0 is a [collection of modules](https://github.com/d3) that are designed to 
 * [Brushes](#brushes-d3-brush)
 * [Chords](#chords-d3-chord)
 * [Collections](#collections-d3-collection) ([Objects](#objects), [Maps](#maps), [Sets](#sets), [Nests](#nests))
-* [Colors](#colors-d3-color)
+* [Colors](#d3-color)
 * [Dispatches](#dispatches-d3-dispatch)
 * [Dragging](#dragging-d3-drag)
 * [Delimiter-Separated Values](#delimiter-separated-values-d3-dsv)
